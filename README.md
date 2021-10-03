@@ -1,4 +1,4 @@
-# Devices_Test
+# WebAPI_Devices
 
 Steps for running the test.
   1. Download WebAPI_Devices and ConsoleFront_Devices
